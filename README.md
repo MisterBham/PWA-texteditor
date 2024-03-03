@@ -33,8 +33,6 @@ Available npm scripts:
 * install
 * client
 
-Hosted application can be tested via: https://jate-texteditor-8463ed25bde3.herokuapp.com/
-
 ### License
 Further information regarding this specific license can be found via: https://opensource.org/license/mit/. <br>
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
